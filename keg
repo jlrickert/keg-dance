@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/jlrickert/tapper/main/schemas/keg-config.json
 kegv: 2025-07
-updated: "2026-04-21T02:01:43-05:00"
+updated: "2026-04-26T01:19:40-05:00"
 url: https://keg.jlrickert.me/@example/user
 state: living
 summary: |-
